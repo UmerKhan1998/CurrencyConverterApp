@@ -206,5 +206,5 @@ Created as part of the TA Solutions React/Node.js technical assessment.
 
 ---
 
-**Live Demo**: [Deploy to Vercel]([https://vercel.com/new](https://currency-converter-app-sigma-one.vercel.app/))  
+**Live Demo**: [Deploy to Vercel](https://currency-converter-app-sigma-one.vercel.app/)  
 **API Documentation**: [FreeCurrencyAPI Docs](https://freecurrencyapi.com/docs/)
